@@ -4,7 +4,7 @@
 PyroCMS Workless is a slimmed down version of iKreativ's Workless framework. It is a functioning PyroCMS theme and is designed to give designers a head start on theme creation. There are two things missing from this version that the original has: Adaptive Images and the Minifier. This is because I feel that neither one belongs in a PyroCMS theme but rather in asset handling within the core of PyroCMS.
 
 ##Use
-To use this theme simply download (or clone) and place the pyrocms_workless folder in your addons/default/themes folder. Go to CP > Design > Theme List and select this theme. Note: by default placeholder elements are shown and there is a top bar fixed at the top of the viewport. Both of these can be turned off by clicking on the Options button of this theme in the admin panel.
+To use this theme simply download (or clone) the correct version (tag v1.0 for PyroCMS v1.3.2 and tag v2.0 for PyroCMS v2.0) and place the pyrocms_workless folder in your addons/default/themes folder. Go to CP > Design > Theme List and select this theme. Note: by default placeholder elements are shown and there is a top bar fixed at the top of the viewport. Both of these can be turned off by clicking on the Options button of this theme in the admin panel.
 
 Several files are included in the theme but will need to be manually moved to the site root and modified if you wish to use them:
 

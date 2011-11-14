@@ -8,13 +8,13 @@ class Theme_PyroCMS_workless extends Theme {
     public $website			= 'http://pyrocms.com/';
     public $description		= 'An HTML5 base template filled with goodies to get you up and running quickly. Based on Workless by iKreativ';
     public $version			= '1.0';
-	public $options 		= array('top-bar' => 	array('title' 	=> 'Top Bar',
+	public $options 		= array('top_bar' => 	array('title' 	=> 'Top Bar',
 																'description'   => 'Would you like to display the bar at the very top of the theme?',
 																'default'       => 'yes',
 																'type'          => 'radio',
 																'options'       => 'yes=Yes|no=No',
 																'is_required'   => TRUE),
-									'placeholder-text' => 	array('title' => 'Placeholder Text',
+									'placeholder_text' => 	array('title' => 'Placeholder Text',
 																'description'   => 'Would you like to display the sample text?',
 																'default'       => 'yes',
 																'type'          => 'radio',
